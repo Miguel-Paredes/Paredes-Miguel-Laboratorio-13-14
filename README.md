@@ -27,6 +27,9 @@ Portafolio Web Developer
 ![image](https://github.com/juandiego252/Taller---Clase-13---14/assets/102696740/5e5dda30-25a7-4627-91c2-92ee52db4ed8)
 ### Se invoca a la funcion en el controlador respectivo
 ![image](https://github.com/juandiego252/Taller---Clase-13---14/assets/102696740/82c38843-04c5-4cd9-b7fb-7c028655a684)
+### Registro de un portafolio
+![image](https://github.com/juandiego252/Taller---Clase-13---14/assets/102696740/22cae4eb-f6cf-4536-9c91-d706a7c802cf)
+
 
 
 
