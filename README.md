@@ -23,7 +23,7 @@ Portafolio Web Developer
 ![image](https://github.com/juandiego252/Taller---Clase-13---14/assets/102696740/da145110-8c84-43d0-84d8-a297111a7f36)
 ### Configuraciones en el .env
 ![image](https://github.com/juandiego252/Taller---Clase-13---14/assets/102696740/3008bd73-9962-4a26-8db0-894e838b606b)
-* Luego se procede a importar el módulo creado y las variables creadas a través de la creación de un nuevo archivo en la siguiente ruta
+### Luego se procede a importar el módulo creado y las variables creadas a través de la creación de un nuevo archivo en la siguiente ruta
 ![image](https://github.com/juandiego252/Taller---Clase-13---14/assets/102696740/5e5dda30-25a7-4627-91c2-92ee52db4ed8)
 ### Se invoca a la funcion en el controlador respectivo
 ![image](https://github.com/juandiego252/Taller---Clase-13---14/assets/102696740/82c38843-04c5-4cd9-b7fb-7c028655a684)
