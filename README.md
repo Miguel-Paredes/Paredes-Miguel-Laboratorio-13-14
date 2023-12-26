@@ -8,6 +8,9 @@ Portafolio Web Developer
 * Juan Falconi
 * Juan Gualotuña
 * Miguel Paredes
+
+## Web Server
+https://deployed-6zoj.onrender.com/
 ## Registro, Login y Cloudinary
 ### Controladores 
 ![image](https://github.com/juandiego252/Taller---Clase-13---14/assets/102696740/7c79169e-4aaa-424e-aa0e-cf12120b7dd0)
